@@ -1,0 +1,18 @@
+.fas {
+    float: right;
+}
+.heading {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px;
+}
+.zippy {
+    border: solid 1px #ccc;
+    border-radius: 2px;
+}
+.body {
+    padding: 20px;
+}
+.expanded {
+    background: #f0f0f0
+}
